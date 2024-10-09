@@ -22,6 +22,7 @@
             { "name": "Consultoria", "link": "#service-1" },
             { "name": "Desenvolvimento", "link": "#service-2" },
             { "name": "Suporte", "link": "#service-3" }
+            { "name": "Cloud", "link": "#service-4" }
         ]
     },
     {
