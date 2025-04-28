@@ -4,7 +4,9 @@
         "link": "#home",
         "subMenu": [
             { "name": "Home 1", "link": "#home-1" },
-            { "name": "Home 2", "link": "#home-2" }
+            { "name": "Home 2", "link": "#home-2" },
+            { "name": "Home 3", "link": "#home-3" },
+            { "name": "Home 4", "link": "#home-4" }
         ]
     },
     {
